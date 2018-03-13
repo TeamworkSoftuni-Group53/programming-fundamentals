@@ -132,7 +132,7 @@ Print them in the format as per the examples.
 |         |                                    			 					 |
 | Bauser  | Name: Bauser                       			 					 |
 | 10      | Health: \| \| \| \| \| \| \| \| \| \| \| \|   			         |
-| 10      | Energy: \|\|\|\|\|\|\|\|\|\|\|\|             					 |
+| 10      | Energy: \| \| \| \| \| \| \| \| \| \| \| \|             		 |
 | 10      |                        			             					 |
 | 10      |                         		             					 |
 |         |                                              					 |
