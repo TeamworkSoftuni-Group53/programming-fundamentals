@@ -13,7 +13,7 @@ See the examples below for the appropriate formatting.
 ### Examples
 
 | Input |        Output       |
-|-------|:-------------------:|
+|-------|:--------------------|
 | 12    | 0012 0433 0001 5331 |
 | 433   |                     |
 | 1     |                     |
@@ -40,7 +40,7 @@ come as floating point numbers on the console,
 ### Examples
 
 | Input | Output |
-|-------|:------:|
+|-------|:-------|
 | 2     | 14.00  |
 | 7     |        |
 |       |        |
@@ -62,7 +62,7 @@ Note: **1 mile == 1.60934 kilometers**
 ### Examples
 
 |  Input  | Output |   
-|---------|:------:|
+|---------|:-------|
 | 60      | 96.56  |
 | 1       | 1.61   |
 | 52.113  | 83.86  |
@@ -93,7 +93,7 @@ following format:
 ### Examples
 
 |        Input        |           Output          |
-|---------------------|:-------------------------:|
+|---------------------|:--------------------------|
 | Nuka-Cola           | 220ml Nuka-Cola:          |
 | 220                 | 660kcal, 154g sugars      |
 | 300                 |                           |
@@ -123,7 +123,7 @@ Print them in the format as per the examples.
 ### Examples
 
 |  Input  |                              Output                              |
-|---------|:----------------------------------------------------------------:|
+|---------|:-----------------------------------------------------------------|
 | Mayro   | Name: Mayro            			   						  	     |
 | 5       | Health: \| \| \| \| \| \| . . . . . \|   	   		 	         |
 | 10      | Energy: \| \| \| \| \| \| \| \| \| \| . \|    			  		 |
