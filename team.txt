@@ -2,4 +2,4 @@ vertagen – vertagen
 nTrifonoff – Trifonoff
 ash-rain – bbalkanski
 nikolayyankov – nikolayy
-{github username} – AlexanderPetkov27
+petkovalexander – AlexanderPetkov27
