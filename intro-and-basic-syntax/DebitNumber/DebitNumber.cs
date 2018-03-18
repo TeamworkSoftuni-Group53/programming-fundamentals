@@ -1,4 +1,5 @@
-﻿using System;
+﻿//CONFIRMED from nTrifonoff
+using System;
 
 namespace DebitNumber
 {
